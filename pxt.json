@@ -5,7 +5,6 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-DHT11_DHT22": "github:alankrantas/pxt-dht11_dht22#v0.0.3",
         "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1"
     },
     "files": [
@@ -24,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
